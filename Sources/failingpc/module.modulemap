@@ -1,0 +1,4 @@
+module failingpc [system] {
+  header "shim.h"
+  export *
+}
